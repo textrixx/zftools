@@ -1,0 +1,7 @@
+{
+    "name": "textrixx/zftools",
+    "description": "Provides some helper classes, mainly for ZF 3",
+    "require": {
+        "php": "^5.3.3 || ^7.0"
+    }
+}
